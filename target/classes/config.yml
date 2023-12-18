@@ -1,0 +1,5 @@
+
+# Available placeholders:
+# {server} - Server name
+# {reason} - Kick reason
+message: '&4You got kicked from {server} for {reason}'

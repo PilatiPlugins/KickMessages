@@ -1,0 +1,7 @@
+dev\pilati\kickmessages\ConfigurationManager.class
+dev\pilati\kickmessages\inputStream.class
+dev\pilati\kickmessages\KickMessages.class
+dev\pilati\kickmessages\PlayerManager.class
+dev\pilati\kickmessages\KickMessageData.class
+dev\pilati\kickmessages\CleanUuidTask.class
+dev\pilati\kickmessages\PlayerEvents.class
